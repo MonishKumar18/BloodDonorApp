@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string name="sign_up"><u>sign up</u></string>
+    <string name="choose_image"><u>Choose Image</u></string>
+</resources>
